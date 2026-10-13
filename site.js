@@ -18,18 +18,13 @@ document.addEventListener('keydown', event => {
 navigation.addEventListener('click', event => {
   if (event.target.closest('a')) closeMenu();
 });
-document.querySelectorAll('[data-video]').forEach(container => {
-  const button = container.querySelector('button');
-  button.addEventListener('click', () => {
-    const frame = document.createElement('iframe');
-    frame.src = `https://www.youtube-nocookie.com/embed/${container.dataset.video}?autoplay=1`;
-    frame.title = button.getAttribute('aria-label').replace(/^Play /, '');
-    frame.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen';
-    frame.allowFullscreen = true;
-    frame.referrerPolicy = 'strict-origin-when-cross-origin';
-    container.replaceChildren(frame);
+// Keep only the clip the visitor is watching playing.
+document.addEventListener('play', event => {
+  if (!(event.target instanceof HTMLVideoElement)) return;
+  document.querySelectorAll('video').forEach(video => {
+    if (video !== event.target) video.pause();
   });
-});
+}, true);
 const lightbox = document.querySelector('.lightbox');
 if (lightbox) {
   const image = lightbox.querySelector('img');

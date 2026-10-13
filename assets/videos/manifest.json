@@ -1,0 +1,110 @@
+{
+  "s7t9FYUXR2A": {
+    "src": "assets/videos/robocon-asobi.mp4",
+    "poster": "assets/videos/robocon-asobi.webp",
+    "title": "Asobi Robocon",
+    "original_url": "https://www.youtube.com/watch?v=s7t9FYUXR2A",
+    "duration": 139.761,
+    "bytes": 9298856,
+    "tracks": []
+  },
+  "F08Ib589PUU": {
+    "src": "assets/videos/cassie-inclined-plane.mp4",
+    "poster": "assets/videos/cassie-inclined-plane.webp",
+    "title": "ALIP Controller for Biped Robot: Cassie walking on 20 degree inclined plane",
+    "original_url": "https://www.youtube.com/watch?v=F08Ib589PUU",
+    "duration": 13.909,
+    "bytes": 2000363,
+    "tracks": []
+  },
+  "72drNvoY4AE": {
+    "src": "assets/videos/cassie-stairs.mp4",
+    "poster": "assets/videos/cassie-stairs.webp",
+    "title": "Cassie falling on stairs",
+    "original_url": "https://www.youtube.com/watch?v=72drNvoY4AE",
+    "duration": 113.755,
+    "bytes": 19508434,
+    "tracks": []
+  },
+  "vbyE-d3ap-I": {
+    "src": "assets/videos/apollo-alip.mp4",
+    "poster": "assets/videos/apollo-alip.webp",
+    "title": "Results of ALIP Planner on Apptronik's Apollo Robot",
+    "original_url": "https://www.youtube.com/watch?v=vbyE-d3ap-I",
+    "duration": 30.767,
+    "bytes": 1841503,
+    "tracks": []
+  },
+  "SmxSeTkX7NM": {
+    "src": "assets/videos/xarm-manipulator.mp4",
+    "poster": "assets/videos/xarm-manipulator.webp",
+    "title": "ALTER Bimanipulator",
+    "original_url": "https://www.youtube.com/watch?v=SmxSeTkX7NM",
+    "duration": 83.383,
+    "bytes": 4529559,
+    "tracks": []
+  },
+  "Nkfe3Od2w08": {
+    "src": "assets/videos/sambar-continual-learning.mp4",
+    "poster": "assets/videos/sambar-continual-learning.webp",
+    "title": "SAMBAR helps in continual learning",
+    "original_url": "https://www.youtube.com/watch?v=Nkfe3Od2w08",
+    "duration": 15.372,
+    "bytes": 320910,
+    "tracks": []
+  },
+  "m53tq-P2geU": {
+    "src": "assets/videos/sambar-overview.mp4",
+    "poster": "assets/videos/sambar-overview.webp",
+    "title": "SAMBAR: Replay Free Continual Learning Algorithm for VLAs",
+    "original_url": "https://www.youtube.com/watch?v=m53tq-P2geU",
+    "duration": 179.049,
+    "bytes": 7322426,
+    "tracks": []
+  },
+  "pKNiDnennBM": {
+    "src": "assets/videos/cassie-robot-playground.mp4",
+    "poster": "assets/videos/cassie-robot-playground.webp",
+    "title": "Cassie Walks on Sand, Gravel, and Rocks in the Robot Playground",
+    "original_url": "https://www.youtube.com/watch?v=pKNiDnennBM",
+    "duration": 43.468,
+    "bytes": 12553213,
+    "tracks": []
+  },
+  "SUDEOFMwMKs": {
+    "src": "assets/videos/planar-biped.mp4",
+    "poster": "assets/videos/planar-biped.webp",
+    "title": "Self-designed and self-manufactured Planar biped",
+    "original_url": "https://www.youtube.com/watch?v=SUDEOFMwMKs",
+    "duration": 15.488,
+    "bytes": 903857,
+    "tracks": []
+  },
+  "utANK8jTwuI": {
+    "src": "assets/videos/cassie-moving-walkway.mp4",
+    "poster": "assets/videos/cassie-moving-walkway.webp",
+    "title": "Cassie  on a 1.2 m/s Moving Walkway",
+    "original_url": "https://www.youtube.com/watch?v=utANK8jTwuI",
+    "duration": 36.641,
+    "bytes": 3902910,
+    "tracks": []
+  },
+  "ORie28sHEvc": {
+    "src": "assets/videos/cassie-robust-walking.mp4",
+    "poster": "assets/videos/cassie-robust-walking.webp",
+    "title": "A Robust Walking Algorithm for Underactuated Bipedal Robots in Non-flat, Non-stationary Environments",
+    "original_url": "https://www.youtube.com/watch?v=ORie28sHEvc",
+    "duration": 60.325,
+    "bytes": 6226925,
+    "tracks": []
+  },
+  "1TmKZEQ9J84z1ZnUl63X-Tn_rNTnTZelc": {
+    "src": "assets/videos/robocon-2018.mp4",
+    "poster": "assets/videos/robocon-2018.webp",
+    "title": "robocon_2018.mp4",
+    "original_url": "https://drive.google.com/file/d/1TmKZEQ9J84z1ZnUl63X-Tn_rNTnTZelc/view",
+    "duration": 76.417,
+    "bytes": 19332427,
+    "tracks": []
+  }
+}
