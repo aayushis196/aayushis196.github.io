@@ -4,6 +4,8 @@ Static academic portfolio, hosted at https://aayushis196.github.io/.
 
 **Direct CV link:** https://aayushis196.github.io/Aayushi_CV.pdf
 
+The CV navigation item opens the PDF directly. The old `cv.html` URL redirects to the same PDF.
+
 ## Editing
 
 - Edit `index.html` for the biography, news, selected projects, and education.
